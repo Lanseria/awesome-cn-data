@@ -4,16 +4,16 @@
 那些三好房车停车场，启发自杨旭游记 B 站 UP 主
 
 <table>
-<tr><th>标记</th><th>下载速度</th><th>色值</th></tr>
-<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>0 ~ 4 Mbps</td><td>#C24740</td></tr>
-<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>4 ~ 10 Mbps</td><td>#F3AE1A</td></tr>
-<tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>10+ Mbps</td><td>#50C240</td></tr>
+<tr><th>标记</th><th>好用数值</th><th>色值</th></tr>
+<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>停车不方便，收费很贵</td><td>#C24740</td></tr>
+<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>停车方便</td><td>#F3AE1A</td></tr>
+<tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>停车便宜，有房车电源水源，不拥挤</td><td>#50C240</td></tr>
 </table>
 
 
 ## 停车场列表
 
-你可以通过 web app 查看所在城市的停车场：[https://cn-rc-park.netlify.app](https://cn-rc-park.netlify.app)。  
+你可以通过 web app 查看所在城市的停车场：[https://cn-rcpark.netlify.app/](https://cn-rcpark.netlify.app/)。  
 Web app 由 [@Lanseria](https://github.com/Lanseria) 维护：https://github.com/Lanseria/awesome-cn-rcpark-web
 
 或直接点击下面的链接在 GitHub 上查看。
