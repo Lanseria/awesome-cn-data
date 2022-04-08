@@ -14,7 +14,7 @@ const GRAY = '#BEBEBE';
 
 const setMarkerSymbol = (feature) => {
   if (!feature.properties['marker-symbol'])
-    feature.properties['marker-symbol'] = 'cafe';
+    feature.properties['marker-symbol'] = 'cafe/tea';
 };
 
 const setMarkerColor = (feature, avg, status) => {

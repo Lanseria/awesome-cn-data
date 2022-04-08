@@ -22,7 +22,7 @@ Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu
 * [上海 (74)](shanghai.geojson)
 * [南京 (5)](nanjing.geojson)
 * [武汉 (5)](wuhan.geojson)
-* [杭州 (13)](hangzhou.geojson)
+* [杭州 (14)](hangzhou.geojson)
 * [广州 (6)](guangzhou.geojson)
 * [深圳 (37)](shenzhen.geojson)
 * [贵阳 (3)](guiyang.geojson)
