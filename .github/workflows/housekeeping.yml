@@ -6,9 +6,9 @@ name: House Keeping
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [ master, rc-park ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, rc-park ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

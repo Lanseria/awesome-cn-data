@@ -35,25 +35,25 @@ const buildMarker = (city) => {
   const target = JSON.parse(fs.readFileSync(sourceFile, 'utf-8'));
 
   for (let f of target.features) {
-    let downloadSpeed = f.properties['下载速度'];
-    //some downloadSpeed may be array, in such case let's calculate the average
-    if (!Array.isArray(downloadSpeed)) {
-      downloadSpeed = [downloadSpeed];
-    }
-    let sum = downloadSpeed
-      .map((value) => {
-        const matched = value.match(/^([\d|\.]+)\s?Mbps$/i);
-        let speedStr = matched && matched[1];
-        assert(speedStr);
-        return parseFloat(speedStr);
-      })
-      .reduce((a, b) => {
-        return a + b;
-      });
-    let average = sum / downloadSpeed.length;
-    let status = f.properties['使用状态'];
-    setMarkerColor(f, average, status);
-    setMarkerSymbol(f);
+    // let downloadSpeed = f.properties['下载速度'];
+    // //some downloadSpeed may be array, in such case let's calculate the average
+    // if (!Array.isArray(downloadSpeed)) {
+    //   downloadSpeed = [downloadSpeed];
+    // }
+    // let sum = downloadSpeed
+    //   .map((value) => {
+    //     const matched = value.match(/^([\d|\.]+)\s?Mbps$/i);
+    //     let speedStr = matched && matched[1];
+    //     assert(speedStr);
+    //     return parseFloat(speedStr);
+    //   })
+    //   .reduce((a, b) => {
+    //     return a + b;
+    //   });
+    // let average = sum / downloadSpeed.length;
+    // let status = f.properties['使用状态'];
+    // setMarkerColor(f, average, status);
+    // setMarkerSymbol(f);
   }
   fs.writeFileSync(sourceFile, JSON.stringify(target, null, 2) + '\n');
   console.log(`${city}: Done with ${target.features.length} records!`);
