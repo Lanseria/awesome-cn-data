@@ -1,7 +1,7 @@
-# Awesome CN Café
+# Awesome CN RC Park
 ![CI](https://github.com/ElaWorkshop/awesome-cn-cafe/workflows/CI/badge.svg)
 
-那些网速快咖啡好的咖啡馆。不同颜色的标记代表不同的下载速度。
+那些三好房车停车场，启发自杨旭游记 B 站 UP 主
 
 <table>
 <tr><th>标记</th><th>下载速度</th><th>色值</th></tr>
@@ -11,41 +11,18 @@
 </table>
 
 
-## 咖啡馆列表
+## 停车场列表
 
-你可以通过 web app 查看所在城市的咖啡馆：[https://cafe-cn.netlify.app](https://cafe-cn.netlify.app)。  
-Web app 由 [@antfu](https://github.com/antfu) 维护：https://github.com/antfu/awesome-cn-cafe-web
+你可以通过 web app 查看所在城市的停车场：[https://cn-rc-park.netlify.app](https://cn-rc-park.netlify.app)。  
+Web app 由 [@Lanseria](https://github.com/Lanseria) 维护：https://github.com/Lanseria/awesome-cn-rcpark-web
 
 或直接点击下面的链接在 GitHub 上查看。
 
-* [北京 (139)](beijing.geojson)
-* [上海 (74)](shanghai.geojson)
-* [南京 (5)](nanjing.geojson)
-* [武汉 (5)](wuhan.geojson)
-* [杭州 (13)](hangzhou.geojson)
-* [广州 (6)](guangzhou.geojson)
-* [深圳 (37)](shenzhen.geojson)
-* [贵阳 (3)](guiyang.geojson)
-* [成都 (8)](chengdu.geojson)
-* [南昌 (1)](nanchang.geojson)
-* [呼和浩特 (1)](hohhot.geojson)
-* [洛阳 (1)](luoyang.geojson)
-* [芜湖 (2)](wuhu.geojson)
-* [青岛 (1)](qingdao.geojson)
-* [沈阳 (1)](shenyang.geojson)
-* [哈尔滨 (1)](harbin.geojson)
-* [大连 (3)](dalian.geojson)
-* [长沙 (13)](changsha.geojson)
-* [西昌 (1)](xichang.geojson)
-* [重庆 (3)](chongqing.geojson)
-* [玉林 (1)](yulin.geojson)
-* [佛山 (3)](foshan.geojson)
-* [保定 (1)](baoding.geojson)
-* [南宁 (4)](nanning.geojson)
+* [杭州 (1)](hangzhou.geojson)
 
 ## 贡献
 
-欢迎发 pull request 添加你去过的咖啡馆。请通过手机 app 或浏览器等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [shanghai.geojson](shanghai.geojson)。
+欢迎发 pull request 添加你去过的(房车)停车场。请通过手机 app 或浏览器等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [hangzhou.geojson](hangzhou.geojson)。
 
 ### 通过手机 App
 

@@ -51,7 +51,7 @@ const buildMarker = (city) => {
         return a + b;
       });
     let average = sum / downloadSpeed.length;
-    let status = f.properties['营业状态'];
+    let status = f.properties['使用状态'];
     setMarkerColor(f, average, status);
     setMarkerSymbol(f);
   }
