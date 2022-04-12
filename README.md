@@ -1,7 +1,11 @@
-# Awesome CN Café
+# Awesome CN Data (Cafe)
 ![CI](https://github.com/ElaWorkshop/awesome-cn-cafe/workflows/CI/badge.svg)
 
-那些网速快咖啡好的咖啡馆。不同颜色的标记代表不同的下载速度。
+这是国内数据分享的社区，提供了一些有用的数据，目前包括：
+
+- [Awesome CN Cafe(原仓库)](https://github.com/Lanseria/awesome-cn-data)
+- [Awesome CN Tea](https://github.com/Lanseria/awesome-cn-data/tree/tea)
+- [Awesome CN RCPark](https://github.com/Lanseria/awesome-cn-data/tree/rc-park)
 
 <table>
 <tr><th>标记</th><th>下载速度</th><th>色值</th></tr>
