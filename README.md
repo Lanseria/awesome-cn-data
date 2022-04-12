@@ -1,12 +1,12 @@
-# Awesome CN RC Park
+# Awesome CN RCPark
 ![CI](https://github.com/ElaWorkshop/awesome-cn-cafe/workflows/CI/badge.svg)
 
-那些三好房车停车场，启发自杨旭游记 B 站 UP 主
+收集一些好用不罚单的停车位
 
 <table>
 <tr><th>标记</th><th>好用数值</th><th>色值</th></tr>
-<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>停车不方便，收费很贵</td><td>#C24740</td></tr>
-<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>停车方便</td><td>#F3AE1A</td></tr>
+<tr><td><img src="resources/markers/slow.png" width="50" alt="Slow marker"></td><td>停车不方便，收费很，罚单频率高</td><td>#C24740</td></tr>
+<tr><td><img src="resources/markers/moderate.png" width="50" alt="Moderate marker"></td><td>停车方便，罚单几率低</td><td>#F3AE1A</td></tr>
 <tr><td><img src="resources/markers/fast.png" width="50" alt="Fast marker"></td><td>停车便宜，有房车电源水源，不拥挤</td><td>#50C240</td></tr>
 </table>
 
@@ -22,7 +22,7 @@ Web app 由 [@Lanseria](https://github.com/Lanseria) 维护：https://github.com
 
 ## 贡献
 
-欢迎发 pull request 添加你去过的(房车)停车场。请通过手机 app 或浏览器等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [hangzhou.geojson](hangzhou.geojson)。
+欢迎发 pull request 添加你去过的停车场/或着停车位，毕竟现在停车可能太贵了。请通过手机 app 或浏览器等方式获取网络速度和经纬度，然后添加到相应的 [geoJSON](http://geojson.org/geojson-spec.html) 中。如果没有你所在的城市，请新建一个 geoJSON 文件。格式请参见 [hangzhou.geojson](hangzhou.geojson)。
 
 ### 通过手机 App
 
