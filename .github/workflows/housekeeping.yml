@@ -5,10 +5,10 @@ name: House Keeping
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
+  schedule:
+    - cron: "*/30 * * * *"
   push:
-    branches: [master, sampling-point]
-  pull_request:
-    branches: [master, sampling-point]
+    branches: [sampling-point]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -27,6 +27,12 @@ jobs:
 
       - name: Install
         run: npm install -C tools
+
+      - name: Post data
+        run: npm run postdata -C tools
+
+      - name: Fetch data
+        run: npm run fetchdata -C tools
 
       - name: House Keeping
         run: npm run housekeeping -C tools
