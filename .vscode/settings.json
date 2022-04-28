@@ -4,5 +4,6 @@
     "source.fixAll.eslint": false, // this allows ESLint to auto fix on save
     "source.organizeImports": false
   },
+  "eslint.enable": false,
   "prettier.enable": true
 }
