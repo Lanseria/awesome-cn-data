@@ -4,2166 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "ID": "16387",
-        "名称": "梦琴湾小区",
-        "详情地址": "梦琴湾小区",
-        "联系电话": "88838637",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.3782738734614,
-          30.29421478526619
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16384",
-        "名称": "天元公寓",
-        "详情地址": "天元公寓",
-        "联系电话": "86684206",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.37941437090933,
-          30.16326748728543
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16380",
-        "名称": "福雷德小区三幢一楼社区阅览室",
-        "详情地址": "福雷德小区三幢一楼社区阅览室",
-        "联系电话": "86721415",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.33599822742282,
-          30.314061350871377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16379",
-        "名称": "清雅苑小区17幢文化家园一楼",
-        "详情地址": "清雅苑小区17幢文化家园一楼",
-        "联系电话": "86721415",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.35319150626442,
-          30.309713421246297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16376",
-        "名称": "景园小区北区105号小广场",
-        "详情地址": "景园小区北区105号小广场",
-        "联系电话": "86925216",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.32647970903953,
-          30.303781398069088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16361",
-        "名称": "呈瑞街公共采样点",
-        "详情地址": "呈瑞街66号",
-        "联系电话": "0571-89898036",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.3238541934815,
-          30.32913532193085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16360",
-        "名称": "恒大市场Ｃ馆２号门采样点",
-        "详情地址": "下沙街道东城大厦2号楼",
-        "联系电话": "0571-85258525",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.32741202952002,
-          30.32083994761562
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16357",
-        "名称": "高沙卫生服务站",
-        "详情地址": "文渊路133号",
-        "联系电话": "0571-86937255",
-        "状态": "休息",
-        "类型": "基层医疗机构",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.32723746908925,
-          30.31031556106751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16356",
-        "名称": "群桥人力公寓采样点",
-        "详情地址": "盛安路12号",
-        "联系电话": "0571-86925752",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.31742042491143,
-          30.292241495479647
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16351",
-        "名称": "松合卫生服务站",
-        "详情地址": "学林街1704号",
-        "联系电话": "0571-86937255",
-        "状态": "休息",
-        "类型": "基层医疗机构",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.30330046275496,
-          30.311699542618637
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16349",
-        "名称": "头格卫生服务站",
-        "详情地址": "七格路七格小区",
-        "联系电话": "0571-86937255",
-        "状态": "休息",
-        "类型": "基层医疗机构",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.30665002077579,
-          30.29247771939466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16348",
-        "名称": "东方卫生服务站",
-        "详情地址": "福城路水岚佳苑",
-        "联系电话": "0571-86937255",
-        "状态": "休息",
-        "类型": "基层医疗机构",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.32498319308446,
-          30.321559502603492
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16336",
-        "名称": "老九中停车场采样点",
-        "详情地址": "老九中停车场采样点",
-        "联系电话": "0571-82193621",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.27551318591803,
-          30.437928326867556
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16334",
-        "名称": "义蓬名苑7号楼北",
-        "详情地址": "义蓬名苑7号楼北",
-        "联系电话": "0571-82984028",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.48875620360545,
-          30.27269574433771
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16332",
-        "名称": "宝龙公寓",
-        "详情地址": "宝龙公寓",
-        "联系电话": "0571-82181247",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.3758214036598,
-          30.307917689606516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16331",
-        "名称": "龙润城",
-        "详情地址": "龙润城",
-        "联系电话": "0571-82181247",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.48675436831469,
-          30.300639428449035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16330",
-        "名称": "江与城",
-        "详情地址": "江与城",
-        "联系电话": "0571-82181247",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.48421107140851,
-          30.305326947988704
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16327",
-        "名称": "东湖城东门采样点",
-        "详情地址": "东湖城东门采样点",
-        "联系电话": null,
-        "状态": "休息",
-        "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26961661110956,
-          30.421806794425258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16314",
-        "名称": "后新庙村委会",
-        "详情地址": "后新庙村委会",
-        "联系电话": "82674559",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.49519838257996,
-          30.25447107644837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16309",
-        "名称": "萧山区义蓬街道南沙村委边篮球场",
-        "详情地址": "萧山区义蓬街道南沙村委边篮球场",
-        "联系电话": "0571-82906177",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.51293945380485,
-          30.30851998132334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16302",
-        "名称": "萧山区义蓬街道金星村文化长廊",
-        "详情地址": "萧山区义蓬街道金星村文化长廊",
-        "联系电话": "0571-82181414",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.48247009866347,
-          30.279395774673088
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16295",
-        "名称": "琅琴湾小区",
-        "详情地址": "琅琴湾小区中间广场",
-        "联系电话": "82101530",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.48191749084803,
-          30.321436191133948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16293",
-        "名称": "文体中心",
-        "详情地址": "河庄街道文体中心",
-        "联系电话": "82174695",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.44636878551542,
-          30.29441773331901
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16291",
-        "名称": "街道广场正中心",
-        "详情地址": "街道广场正中心",
-        "联系电话": "82174527",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.47897243104322,
-          28.758646199058123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16277",
-        "名称": "同二小区老年活动中心",
-        "详情地址": "同二小区老年活动中心",
-        "联系电话": "82177013",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.29121411643102,
-          30.40577011413627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16259",
-        "名称": "铂瑞悦府",
-        "详情地址": "天成路与明月桥路交叉口西南侧",
-        "联系电话": "0571-86729102",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21001761455072,
-          30.294206220237367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16254",
-        "名称": "云河家园",
-        "详情地址": "章家坝社区",
-        "联系电话": "0571-86707573",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20814310147688,
-          30.275483143488138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16252",
-        "名称": "中企艮山府",
-        "详情地址": "运河东路500号",
-        "联系电话": "0571-86707573",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20544313907274,
-          30.276128689080334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16244",
-        "名称": "省农科院社区便民采集点",
-        "详情地址": "农科院社区居委会边",
-        "联系电话": "86404051",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18652219455421,
-          30.302737271016657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16237",
-        "名称": "同心社区便民采集点",
-        "详情地址": "笕桥街道同心社区5区公园对面",
-        "联系电话": "85041765；85141068",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21067551227333,
-          30.31525326862488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16234",
-        "名称": "东港社区便民采集点",
-        "详情地址": "东港社区党群服务中心",
-        "联系电话": "86806376",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19799028727893,
-          30.29559745247269
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16232",
-        "名称": "金色黎明社区便民采集点",
-        "详情地址": "金色黎明一期40幢底商",
-        "联系电话": "86635113",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21205201029555,
-          30.305087721443037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16226",
-        "名称": "钱景社区采样点",
-        "详情地址": "钱塘府6幢底商对门口运河西路",
-        "联系电话": "86732891",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20767189594038,
-          30.26680995519067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16220",
-        "名称": "钱塘社区采样点",
-        "详情地址": "富春路和三新路交叉人行通道",
-        "联系电话": "87153105",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20811274084846,
-          30.25536467613988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16219",
-        "名称": "钱江苑社区采样点",
-        "详情地址": "钱环路119号老年活动室",
-        "联系电话": "81609366",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20280644230209,
-          30.255466286376862
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16209",
-        "名称": "常青公寓2幢底层",
-        "详情地址": "常青公寓2幢",
-        "联系电话": "0571-86887683",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19362787768856,
-          30.242523186919236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16207",
-        "名称": "观音塘小公园（居安坊9幢边）",
-        "详情地址": "秋涛路550号",
-        "联系电话": "0571-85227675",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18965781104481,
-          30.237434715756425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16205",
-        "名称": "商教苑19幢南侧大公园",
-        "详情地址": "商教苑19幢",
-        "联系电话": "0571-56062128",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17999606687772,
-          30.24376111514784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16204",
-        "名称": "解放东路清泰二期门口",
-        "详情地址": "解放东路520号",
-        "联系电话": "0571-86514145",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17682038798313,
-          30.242005004563183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16193",
-        "名称": "昆龙童装停车场",
-        "详情地址": "解放东路268号",
-        "联系电话": "0571-86517104",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18456383300466,
-          30.245525349520342
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16192",
-        "名称": "杭海路13号停车场",
-        "详情地址": "杭海路13号四季青服装特色街区停车场",
-        "联系电话": "0571-86517104",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1916748839196,
-          30.248659552767013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16191",
-        "名称": "碑亭路50号停车场",
-        "详情地址": "碑亭路50号停车场",
-        "联系电话": "0571-86517104",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1857602965662,
-          30.242967378854228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16182",
-        "名称": "金秋花园社区",
-        "详情地址": "凤起东路55号迪卡侬停车场",
-        "联系电话": "0571-86990860",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18092320366983,
-          30.26169152737829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16181",
-        "名称": "华家池社区",
-        "详情地址": "浙江大学华家池校区西1门",
-        "联系电话": "0571-86971050",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18306504440004,
-          30.263537975907617
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16180",
-        "名称": "景秀社区",
-        "详情地址": "景芳一区28幢小公园",
-        "联系电话": "0571-85132461",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19333469227477,
-          30.26342506510643
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16170",
-        "名称": "三里亭社区",
-        "详情地址": "三里亭社区村民家园茶室西面",
-        "联系电话": "86403540",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18748838755475,
-          30.291152937529777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16165",
-        "名称": "京惠社区",
-        "详情地址": "京惠花园6幢南侧小公园",
-        "联系电话": "86773802",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17728100071015,
-          30.27404866924559
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16164",
-        "名称": "麦苗社区",
-        "详情地址": "三里家园三小区小公园",
-        "联系电话": "86044100",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17987037470564,
-          30.29392432264416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16157",
-        "名称": "蓝天社区",
-        "详情地址": "蓝天城市花园戏鱼池",
-        "联系电话": "86715092",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17798760086292,
-          30.2827593607874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16155",
-        "名称": "红梅社区",
-        "详情地址": "红梅公园",
-        "联系电话": "86408604",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17775225414216,
-          30.291404733154973
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16154",
-        "名称": "天运社区",
-        "详情地址": "天运花园东区16幢南侧",
-        "联系电话": "86681424",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1915145842571,
-          30.280536157019935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16153",
-        "名称": "贴沙河绿道 凤山桥北",
-        "详情地址": "贴沙河绿道凤山桥北",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1754431545414,
-          30.269740378858423
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16151",
-        "名称": "候潮公寓",
-        "详情地址": "候潮公寓8幢前小广场",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16237662806734,
-          30.22113551603487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16150",
-        "名称": "一品售楼部",
-        "详情地址": "闻潮一品甬江路售楼部",
-        "联系电话": "28899099",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17593957150297,
-          30.2244700026745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16136",
-        "名称": "吟潮驿",
-        "详情地址": "吟潮驿",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1979093154945,
-          30.24365421547058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16135",
-        "名称": "金色家园",
-        "详情地址": "金色家园8幢",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.92374268256435,
-          30.061030107602903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16134",
-        "名称": "金色海岸",
-        "详情地址": "金色海岸4幢",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17602209943703,
-          30.216437475959843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16133",
-        "名称": "林枫花园",
-        "详情地址": "林枫花园小公园",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17864842002069,
-          30.22420665728099
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16132",
-        "名称": "蓝色钱江",
-        "详情地址": "蓝色钱江南区、北区",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18449703368846,
-          30.220915798811188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16129",
-        "名称": "袁井巷",
-        "详情地址": "袁井巷5幢西侧保安亭",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1609876192266,
-          30.232679966048906
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16126",
-        "名称": "姚江路断头路",
-        "详情地址": "姚江路断头路",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17131317490013,
-          30.21702811983826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16121",
-        "名称": "海潮雅园二园",
-        "详情地址": "海潮雅园商铺",
-        "联系电话": "28899099",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17026614020668,
-          30.22946085295662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16118",
-        "名称": "南星街道卫生服务中心",
-        "详情地址": "秋涛路56号",
-        "联系电话": "0571-86068986",
-        "状态": "休息",
-        "类型": "基层医疗机构",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16576257850166,
-          30.21672443165146
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16114",
-        "名称": "玉皇山社区2",
-        "详情地址": "复兴城市家园6幢康养驿站门口",
-        "联系电话": "0571-86087492",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.13963764314445,
-          30.202811289403627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16109",
-        "名称": "馒头山社区2",
-        "详情地址": "万松岭路53号（万松岭路凤凰山脚路交叉口）",
-        "联系电话": "0571-86583035",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1570559809964,
-          30.214811302508384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16102",
-        "名称": "水澄桥社区4",
-        "详情地址": "水澄南苑物业办公室门口",
-        "联系电话": "0571-86583483",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.28929264993724,
-          30.40958939372349
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16091",
-        "名称": "复兴街社区1",
-        "详情地址": "复兴南街138号",
-        "联系电话": "0571-86782373",
-        "状态": "忙碌",
-        "类型": "重点公共场所",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.15607581469105,
-          30.207313176887844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16088",
-        "名称": "海月桥社区2",
-        "详情地址": "海月花园中心花园",
-        "联系电话": "0571-86087653",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19385162962455,
-          30.202637204025848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16083",
-        "名称": "紫花埠社区2",
-        "详情地址": "联华超市旁",
-        "联系电话": "0571-86580206",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16158045522681,
-          30.208886054275524
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16082",
-        "名称": "紫花埠社区1",
-        "详情地址": "复兴商圈（南星桥地铁站B、C口）",
-        "联系电话": "0571-86580206",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16074537055935,
-          30.209130133475657
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16077",
-        "名称": "大通桥社区望江新园一园",
-        "详情地址": "望江新园一园5幢前空地",
-        "联系电话": "86062510",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17294068084627,
-          30.231134638134137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16075",
-        "名称": "景园北苑",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.22789946531122,
-          30.349600814401086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16072",
-        "名称": "东兰轩",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21829242717548,
-          30.345958207569005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16068",
-        "名称": "长睦家苑",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.22286710211786,
-          30.352681214723873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16065",
-        "名称": "联合格里",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.11658302710123,
-          30.25491087465025
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16063",
-        "名称": "大唐苑",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.12099231748073,
-          30.261466584885806
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16055",
-        "名称": "丁桥家苑一期（1-36幢）",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.22011928730358,
-          30.34465533582309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16049",
-        "名称": "丁兰街道扩面核酸点",
-        "详情地址": "明珠街西北侧",
-        "联系电话": "88117033",
-        "状态": "休息",
-        "类型": "政府机关",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.22081678815069,
-          30.348428222646216
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16043",
-        "名称": "大唐城",
-        "详情地址": "大唐城",
-        "联系电话": "88117033",
-        "状态": "休息",
-        "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.92488312879269,
-          30.05852071736904
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16033",
-        "名称": "九堡街道相江社区检测点",
-        "详情地址": "九堡街道相江社区海益路段",
-        "联系电话": "87091075",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.27317192994816,
-          30.296139967656075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16022",
-        "名称": "九堡街道海棠公寓小区检测点",
-        "详情地址": "九堡街道海棠公寓小区北商铺",
-        "联系电话": "88836681",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26148213390219,
-          30.30758866777388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16017",
-        "名称": "九堡街道红苹果小区检测点",
-        "详情地址": "九堡街道红苹果小区足球场",
-        "联系电话": "85166411",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.27409378777443,
-          30.30001584210383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16016",
-        "名称": "九堡街道金海社区检测点",
-        "详情地址": "九堡街道金海商业城B馆南侧通道",
-        "联系电话": "86902555",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.25777129381929,
-          30.306424253304577
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16011",
-        "名称": "九堡街道宣家埠村三组检测点",
-        "详情地址": "九堡街道宣家埠村三组篮球场",
-        "联系电话": "86032783",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.23879725981442,
-          30.324900016602086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16010",
-        "名称": "九堡街道三村村委检测点",
-        "详情地址": "九堡街道三村村委东停车场",
-        "联系电话": "87162893",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.23665194331066,
-          30.313775692372218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16009",
-        "名称": "九堡街道三村村整治指挥部检测点",
-        "详情地址": "九堡街道三村村整治工作指挥部",
-        "联系电话": "87162893",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.2349267877347,
-          30.315406117558137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16005",
-        "名称": "九堡街道九堡社区三区检测点",
-        "详情地址": "九沙大道与仁爱路交叉口东南角",
-        "联系电话": "86701045",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26024819173801,
-          30.311622979925662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16002",
-        "名称": "九堡街道格畈社区检测点",
-        "详情地址": "九堡街道格畈社区北苑农贸市场停车场",
-        "联系电话": "86689461",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.25256963568533,
-          30.32327638130428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16001",
-        "名称": "九堡街道蚕桑社区检测点",
-        "详情地址": "九堡街道蚕桑社区蚕桑西苑北门商铺通道",
-        "联系电话": "89701230",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.25747063033188,
-          30.309189451263023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15995",
-        "名称": "九堡街道江岸邻里检测点",
-        "详情地址": "九堡街道江岸邻里8-9幢北面行车道",
-        "联系电话": "86902132",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26569625085115,
-          30.29534221680839
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15994",
-        "名称": "普德人家",
-        "详情地址": "九州路",
-        "联系电话": "0571-86013317",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.2369003470496,
-          30.310393827853773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15989",
-        "名称": "远洋心里",
-        "详情地址": "建福街86号",
-        "联系电话": "0571-86056711",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.23456957691691,
-          30.30293865573817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15985",
-        "名称": "亲悦里",
-        "详情地址": "九环路3号",
-        "联系电话": "0571-86019124",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.24526483784989,
-          30.300082915359102
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15983",
-        "名称": "雍泽府",
-        "详情地址": "新塘路与园区路交汇处",
-        "联系电话": "0571-86019124",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.23901658181884,
-          30.295229263201872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15979",
-        "名称": "绿城杨柳郡",
-        "详情地址": "九和路660号",
-        "联系电话": "0571-86493755",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.22821043421243,
-          30.29752329825371
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15976",
-        "名称": "清江名潮院",
-        "详情地址": "清江名潮院小区大门口",
-        "联系电话": "86786073；85041053",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18690514216946,
-          30.236596933653257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15969",
-        "名称": "望江家园东园",
-        "详情地址": "望江家园东园23幢旁",
-        "联系电话": "86517782",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18046498865363,
-          30.229203337885416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15968",
-        "名称": "甘王路口",
-        "详情地址": "甘王路与秋涛支路交界口",
-        "联系电话": "86511195",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18383816573014,
-          30.23807564487046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15965",
-        "名称": "茅廊巷农贸市场",
-        "详情地址": "佑圣观路275号",
-        "联系电话": "87803461",
-        "状态": "休息",
-        "类型": "企事业单位",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16374911342638,
-          30.24630344972786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15960",
-        "名称": "解放路19号",
-        "详情地址": "解放路19号",
-        "联系电话": "86067015",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17153637791333,
-          30.24628809271122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15954",
-        "名称": "西牌楼社区居委会",
-        "详情地址": "建国南路38号",
-        "联系电话": "87822042",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16452169634555,
-          30.235067834260363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15953",
-        "名称": "皮市巷小区",
-        "详情地址": "皮市巷35号",
-        "联系电话": "87044618",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16383061146037,
-          30.25039430462015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15951",
-        "名称": "地铁7号线D口",
-        "详情地址": "地铁7号线D口附近",
-        "联系电话": "87812433",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.28225089322244,
-          30.364605400856195
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15950",
-        "名称": "羊线弄22号",
-        "详情地址": "羊线弄22号（原铁路四小）",
-        "联系电话": "87812433",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.06709417201583,
-          30.321608679257803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15927",
-        "名称": "岳王路社区",
-        "详情地址": "祖庙巷33号（新世纪外国语学校）",
-        "联系电话": "0571-87081637",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.15908527832684,
-          30.253252180401034
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15922",
-        "名称": "涌金门社区",
-        "详情地址": "西湖大道延安路西北口",
-        "联系电话": "0571-87084018；0571-87082031",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.15486493177492,
-          30.24317003193797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14409",
-        "名称": "中欧城核酸采集点",
-        "详情地址": "城南街道环城南路学圣路路口",
-        "联系电话": "无",
-        "状态": "休息",
-        "类型": "基层",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.69343179245284,
-          29.789848766964834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14407",
-        "名称": "荣正广场方舱核酸采集点",
-        "详情地址": "城南街道迎春南路29号荣正财富广场",
-        "联系电话": "无",
-        "状态": "休息",
-        "类型": "基层",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.6882188993959,
-          29.781905995050376
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "ID": "17289",
         "名称": "杭州江城骨科医院",
         "详情地址": "杭州市体育场路71号",
@@ -3720,9 +1560,9 @@
         "名称": "香樟公寓会馆一楼2号点",
         "详情地址": "文三西路360号香樟公寓46幢东铡",
         "联系电话": "88269329",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -3740,9 +1580,9 @@
         "名称": "文溪鼎园南公园1号点",
         "详情地址": "文一西路100-1号西侧",
         "联系电话": "88854720",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -3760,9 +1600,9 @@
         "名称": "紫金小区西门外人行道2号点",
         "详情地址": "古墩路242号南侧",
         "联系电话": "88974463",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -3780,9 +1620,9 @@
         "名称": "香港城西门1号点",
         "详情地址": "古墩路154-1旁（中国农业银行杭三路支行南侧）",
         "联系电话": "88107230",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -3800,9 +1640,9 @@
         "名称": "紫金庭园北门1号点",
         "详情地址": "紫庭北弄（梅林苑9幢3号商铺前）",
         "联系电话": "88107230",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -3988,9 +1828,9 @@
         "名称": "转塘街道社区卫生服务中心",
         "详情地址": "庙山东村6号",
         "联系电话": "87091223",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4618,9 +2458,9 @@
         "名称": "大清社区核酸采样点",
         "详情地址": "邻里中心",
         "联系电话": "86570604",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4658,9 +2498,9 @@
         "名称": "转塘家园北区26幢东侧",
         "详情地址": "转塘家园北区26幢东侧",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4678,9 +2518,9 @@
         "名称": "横桥沈合苑篮球场",
         "详情地址": "横桥沈合苑小区篮球场",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4698,9 +2538,9 @@
         "名称": "方家畈社区篮球场",
         "详情地址": "方家畈社区办公楼南侧篮球场",
         "联系电话": "87091081",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4718,9 +2558,9 @@
         "名称": "定北家园三区",
         "详情地址": "定北家园三区4-9幢中间健身场地",
         "联系电话": "87093881",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4738,9 +2578,9 @@
         "名称": "之江家园二区南门",
         "详情地址": "之江家园二区",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4758,9 +2598,9 @@
         "名称": "回龙雅苑10-2",
         "详情地址": "回龙雅苑10幢边（北）",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -4778,9 +2618,9 @@
         "名称": "奥莱金街",
         "详情地址": "奥莱金街北面广场",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5016,9 +2856,9 @@
         "名称": "临江花园北门公园处前空地",
         "详情地址": "临江花园北门公园前空地",
         "联系电话": "89997120",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5072,9 +2912,9 @@
         "名称": "山秀景苑采样点",
         "详情地址": "山秀景苑7号楼",
         "联系电话": "85100717",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5092,9 +2932,9 @@
         "名称": "大同公寓",
         "详情地址": "大同公寓生活馆停车场",
         "联系电话": "86619185",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5112,9 +2952,9 @@
         "名称": "新浦社区文体广场",
         "详情地址": "新浦社区文体广场",
         "联系电话": "56680960",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5132,9 +2972,9 @@
         "名称": "西浦过渡房生活馆",
         "详情地址": "西浦过渡房生活馆",
         "联系电话": "86630995",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5152,9 +2992,9 @@
         "名称": "联庄二号馆",
         "详情地址": "联庄二号馆",
         "联系电话": "86697592",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5190,9 +3030,9 @@
         "名称": "伟业路东侧",
         "详情地址": "伟业路东侧",
         "联系电话": "87788353",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "其他",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5228,9 +3068,9 @@
         "名称": "水晶城南门",
         "详情地址": "水晶城南广场",
         "联系电话": "89997006",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5248,9 +3088,9 @@
         "名称": "六合天寓小区",
         "详情地址": "六合天寓广场（东信大道1222号）",
         "联系电话": "87656771",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5268,9 +3108,9 @@
         "名称": "滨文社区滨文苑东区和滨文社区长岛之春",
         "详情地址": "滨文苑东区长岛之春金牛广场处",
         "联系电话": "88071781",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5288,9 +3128,9 @@
         "名称": "云杉郡南门商铺广场",
         "详情地址": "云杉郡南门商铺广场",
         "联系电话": "86632196",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5398,9 +3238,9 @@
         "名称": "最美广场",
         "详情地址": "闻涛社区最美广场",
         "联系电话": "86802775",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5472,9 +3312,9 @@
         "名称": "缤纷未来社区采样点",
         "详情地址": "缤纷东院北门（缤纷卫生服务站）",
         "联系电话": "86686286；  86683026； 87700111",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5492,9 +3332,9 @@
         "名称": "共联社区采样点",
         "详情地址": "迎春东苑1幢",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5512,9 +3352,9 @@
         "名称": "湘云雅苑采样点",
         "详情地址": "湘云雅苑6-1外围商铺",
         "联系电话": "81607159",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5532,9 +3372,9 @@
         "名称": "西兴社区采样点",
         "详情地址": "滨安小区南门西侧",
         "联系电话": "86628116",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5632,9 +3472,9 @@
         "名称": "玺之湾小区",
         "详情地址": "小区大门广场",
         "联系电话": "88117033",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5692,9 +3532,9 @@
         "名称": "三义锦唐苑",
         "详情地址": "小区大门广场",
         "联系电话": "88117033",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5752,9 +3592,9 @@
         "名称": "辰秀嘉园",
         "详情地址": "小区大门广场",
         "联系电话": "88117033",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -5902,6 +3742,2166 @@
         "coordinates": [
           120.3620520653992,
           30.268301096693378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16387",
+        "名称": "梦琴湾小区",
+        "详情地址": "梦琴湾小区",
+        "联系电话": "88838637",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3782738734614,
+          30.29421478526619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16384",
+        "名称": "天元公寓",
+        "详情地址": "天元公寓",
+        "联系电话": "86684206",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.37941437090933,
+          30.16326748728543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16380",
+        "名称": "福雷德小区三幢一楼社区阅览室",
+        "详情地址": "福雷德小区三幢一楼社区阅览室",
+        "联系电话": "86721415",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.33599822742282,
+          30.314061350871377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16379",
+        "名称": "清雅苑小区17幢文化家园一楼",
+        "详情地址": "清雅苑小区17幢文化家园一楼",
+        "联系电话": "86721415",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35319150626442,
+          30.309713421246297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16376",
+        "名称": "景园小区北区105号小广场",
+        "详情地址": "景园小区北区105号小广场",
+        "联系电话": "86925216",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32647970903953,
+          30.303781398069088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16361",
+        "名称": "呈瑞街公共采样点",
+        "详情地址": "呈瑞街66号",
+        "联系电话": "0571-89898036",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3238541934815,
+          30.32913532193085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16360",
+        "名称": "恒大市场Ｃ馆２号门采样点",
+        "详情地址": "下沙街道东城大厦2号楼",
+        "联系电话": "0571-85258525",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32741202952002,
+          30.32083994761562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16357",
+        "名称": "高沙卫生服务站",
+        "详情地址": "文渊路133号",
+        "联系电话": "0571-86937255",
+        "状态": "休息",
+        "类型": "基层医疗机构",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32723746908925,
+          30.31031556106751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16356",
+        "名称": "群桥人力公寓采样点",
+        "详情地址": "盛安路12号",
+        "联系电话": "0571-86925752",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31742042491143,
+          30.292241495479647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16351",
+        "名称": "松合卫生服务站",
+        "详情地址": "学林街1704号",
+        "联系电话": "0571-86937255",
+        "状态": "休息",
+        "类型": "基层医疗机构",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.30330046275496,
+          30.311699542618637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16349",
+        "名称": "头格卫生服务站",
+        "详情地址": "七格路七格小区",
+        "联系电话": "0571-86937255",
+        "状态": "休息",
+        "类型": "基层医疗机构",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.30665002077579,
+          30.29247771939466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16348",
+        "名称": "东方卫生服务站",
+        "详情地址": "福城路水岚佳苑",
+        "联系电话": "0571-86937255",
+        "状态": "休息",
+        "类型": "基层医疗机构",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.32498319308446,
+          30.321559502603492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16336",
+        "名称": "老九中停车场采样点",
+        "详情地址": "老九中停车场采样点",
+        "联系电话": "0571-82193621",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27551318591803,
+          30.437928326867556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16334",
+        "名称": "义蓬名苑7号楼北",
+        "详情地址": "义蓬名苑7号楼北",
+        "联系电话": "0571-82984028",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48875620360545,
+          30.27269574433771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16332",
+        "名称": "宝龙公寓",
+        "详情地址": "宝龙公寓",
+        "联系电话": "0571-82181247",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3758214036598,
+          30.307917689606516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16331",
+        "名称": "龙润城",
+        "详情地址": "龙润城",
+        "联系电话": "0571-82181247",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48675436831469,
+          30.300639428449035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16330",
+        "名称": "江与城",
+        "详情地址": "江与城",
+        "联系电话": "0571-82181247",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48421107140851,
+          30.305326947988704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16327",
+        "名称": "东湖城东门采样点",
+        "详情地址": "东湖城东门采样点",
+        "联系电话": null,
+        "状态": "休息",
+        "类型": "重点公共场所",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26961661110956,
+          30.421806794425258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16314",
+        "名称": "后新庙村委会",
+        "详情地址": "后新庙村委会",
+        "联系电话": "82674559",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.49519838257996,
+          30.25447107644837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16309",
+        "名称": "萧山区义蓬街道南沙村委边篮球场",
+        "详情地址": "萧山区义蓬街道南沙村委边篮球场",
+        "联系电话": "0571-82906177",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.51293945380485,
+          30.30851998132334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16302",
+        "名称": "萧山区义蓬街道金星村文化长廊",
+        "详情地址": "萧山区义蓬街道金星村文化长廊",
+        "联系电话": "0571-82181414",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48247009866347,
+          30.279395774673088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16295",
+        "名称": "琅琴湾小区",
+        "详情地址": "琅琴湾小区中间广场",
+        "联系电话": "82101530",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.48191749084803,
+          30.321436191133948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16293",
+        "名称": "文体中心",
+        "详情地址": "河庄街道文体中心",
+        "联系电话": "82174695",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.44636878551542,
+          30.29441773331901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16291",
+        "名称": "街道广场正中心",
+        "详情地址": "街道广场正中心",
+        "联系电话": "82174527",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.47897243104322,
+          28.758646199058123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16277",
+        "名称": "同二小区老年活动中心",
+        "详情地址": "同二小区老年活动中心",
+        "联系电话": "82177013",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.29121411643102,
+          30.40577011413627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16259",
+        "名称": "铂瑞悦府",
+        "详情地址": "天成路与明月桥路交叉口西南侧",
+        "联系电话": "0571-86729102",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21001761455072,
+          30.294206220237367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16254",
+        "名称": "云河家园",
+        "详情地址": "章家坝社区",
+        "联系电话": "0571-86707573",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20814310147688,
+          30.275483143488138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16252",
+        "名称": "中企艮山府",
+        "详情地址": "运河东路500号",
+        "联系电话": "0571-86707573",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20544313907274,
+          30.276128689080334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16244",
+        "名称": "省农科院社区便民采集点",
+        "详情地址": "农科院社区居委会边",
+        "联系电话": "86404051",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18652219455421,
+          30.302737271016657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16237",
+        "名称": "同心社区便民采集点",
+        "详情地址": "笕桥街道同心社区5区公园对面",
+        "联系电话": "85041765；85141068",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21067551227333,
+          30.31525326862488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16234",
+        "名称": "东港社区便民采集点",
+        "详情地址": "东港社区党群服务中心",
+        "联系电话": "86806376",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19799028727893,
+          30.29559745247269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16232",
+        "名称": "金色黎明社区便民采集点",
+        "详情地址": "金色黎明一期40幢底商",
+        "联系电话": "86635113",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21205201029555,
+          30.305087721443037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16226",
+        "名称": "钱景社区采样点",
+        "详情地址": "钱塘府6幢底商对门口运河西路",
+        "联系电话": "86732891",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20767189594038,
+          30.26680995519067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16220",
+        "名称": "钱塘社区采样点",
+        "详情地址": "富春路和三新路交叉人行通道",
+        "联系电话": "87153105",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20811274084846,
+          30.25536467613988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16219",
+        "名称": "钱江苑社区采样点",
+        "详情地址": "钱环路119号老年活动室",
+        "联系电话": "81609366",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20280644230209,
+          30.255466286376862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16209",
+        "名称": "常青公寓2幢底层",
+        "详情地址": "常青公寓2幢",
+        "联系电话": "0571-86887683",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19362787768856,
+          30.242523186919236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16207",
+        "名称": "观音塘小公园（居安坊9幢边）",
+        "详情地址": "秋涛路550号",
+        "联系电话": "0571-85227675",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18965781104481,
+          30.237434715756425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16205",
+        "名称": "商教苑19幢南侧大公园",
+        "详情地址": "商教苑19幢",
+        "联系电话": "0571-56062128",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17999606687772,
+          30.24376111514784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16204",
+        "名称": "解放东路清泰二期门口",
+        "详情地址": "解放东路520号",
+        "联系电话": "0571-86514145",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17682038798313,
+          30.242005004563183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16193",
+        "名称": "昆龙童装停车场",
+        "详情地址": "解放东路268号",
+        "联系电话": "0571-86517104",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18456383300466,
+          30.245525349520342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16192",
+        "名称": "杭海路13号停车场",
+        "详情地址": "杭海路13号四季青服装特色街区停车场",
+        "联系电话": "0571-86517104",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1916748839196,
+          30.248659552767013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16191",
+        "名称": "碑亭路50号停车场",
+        "详情地址": "碑亭路50号停车场",
+        "联系电话": "0571-86517104",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1857602965662,
+          30.242967378854228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16182",
+        "名称": "金秋花园社区",
+        "详情地址": "凤起东路55号迪卡侬停车场",
+        "联系电话": "0571-86990860",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18092320366983,
+          30.26169152737829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16181",
+        "名称": "华家池社区",
+        "详情地址": "浙江大学华家池校区西1门",
+        "联系电话": "0571-86971050",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18306504440004,
+          30.263537975907617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16180",
+        "名称": "景秀社区",
+        "详情地址": "景芳一区28幢小公园",
+        "联系电话": "0571-85132461",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19333469227477,
+          30.26342506510643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16170",
+        "名称": "三里亭社区",
+        "详情地址": "三里亭社区村民家园茶室西面",
+        "联系电话": "86403540",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18748838755475,
+          30.291152937529777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16165",
+        "名称": "京惠社区",
+        "详情地址": "京惠花园6幢南侧小公园",
+        "联系电话": "86773802",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17728100071015,
+          30.27404866924559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16164",
+        "名称": "麦苗社区",
+        "详情地址": "三里家园三小区小公园",
+        "联系电话": "86044100",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17987037470564,
+          30.29392432264416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16157",
+        "名称": "蓝天社区",
+        "详情地址": "蓝天城市花园戏鱼池",
+        "联系电话": "86715092",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17798760086292,
+          30.2827593607874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16155",
+        "名称": "红梅社区",
+        "详情地址": "红梅公园",
+        "联系电话": "86408604",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17775225414216,
+          30.291404733154973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16154",
+        "名称": "天运社区",
+        "详情地址": "天运花园东区16幢南侧",
+        "联系电话": "86681424",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1915145842571,
+          30.280536157019935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16153",
+        "名称": "贴沙河绿道 凤山桥北",
+        "详情地址": "贴沙河绿道凤山桥北",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1754431545414,
+          30.269740378858423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16151",
+        "名称": "候潮公寓",
+        "详情地址": "候潮公寓8幢前小广场",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16237662806734,
+          30.22113551603487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16150",
+        "名称": "一品售楼部",
+        "详情地址": "闻潮一品甬江路售楼部",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17593957150297,
+          30.2244700026745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16136",
+        "名称": "吟潮驿",
+        "详情地址": "吟潮驿",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1979093154945,
+          30.24365421547058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16135",
+        "名称": "金色家园",
+        "详情地址": "金色家园8幢",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92374268256435,
+          30.061030107602903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16134",
+        "名称": "金色海岸",
+        "详情地址": "金色海岸4幢",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17602209943703,
+          30.216437475959843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16133",
+        "名称": "林枫花园",
+        "详情地址": "林枫花园小公园",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17864842002069,
+          30.22420665728099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16132",
+        "名称": "蓝色钱江",
+        "详情地址": "蓝色钱江南区、北区",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18449703368846,
+          30.220915798811188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16129",
+        "名称": "袁井巷",
+        "详情地址": "袁井巷5幢西侧保安亭",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1609876192266,
+          30.232679966048906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16126",
+        "名称": "姚江路断头路",
+        "详情地址": "姚江路断头路",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17131317490013,
+          30.21702811983826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16121",
+        "名称": "海潮雅园二园",
+        "详情地址": "海潮雅园商铺",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17026614020668,
+          30.22946085295662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16118",
+        "名称": "南星街道卫生服务中心",
+        "详情地址": "秋涛路56号",
+        "联系电话": "0571-86068986",
+        "状态": "休息",
+        "类型": "基层医疗机构",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16576257850166,
+          30.21672443165146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16114",
+        "名称": "玉皇山社区2",
+        "详情地址": "复兴城市家园6幢康养驿站门口",
+        "联系电话": "0571-86087492",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13963764314445,
+          30.202811289403627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16109",
+        "名称": "馒头山社区2",
+        "详情地址": "万松岭路53号（万松岭路凤凰山脚路交叉口）",
+        "联系电话": "0571-86583035",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1570559809964,
+          30.214811302508384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16102",
+        "名称": "水澄桥社区4",
+        "详情地址": "水澄南苑物业办公室门口",
+        "联系电话": "0571-86583483",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.28929264993724,
+          30.40958939372349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16091",
+        "名称": "复兴街社区1",
+        "详情地址": "复兴南街138号",
+        "联系电话": "0571-86782373",
+        "状态": "忙碌",
+        "类型": "重点公共场所",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15607581469105,
+          30.207313176887844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16088",
+        "名称": "海月桥社区2",
+        "详情地址": "海月花园中心花园",
+        "联系电话": "0571-86087653",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19385162962455,
+          30.202637204025848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16083",
+        "名称": "紫花埠社区2",
+        "详情地址": "联华超市旁",
+        "联系电话": "0571-86580206",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16158045522681,
+          30.208886054275524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16082",
+        "名称": "紫花埠社区1",
+        "详情地址": "复兴商圈（南星桥地铁站B、C口）",
+        "联系电话": "0571-86580206",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16074537055935,
+          30.209130133475657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16077",
+        "名称": "大通桥社区望江新园一园",
+        "详情地址": "望江新园一园5幢前空地",
+        "联系电话": "86062510",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17294068084627,
+          30.231134638134137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16075",
+        "名称": "景园北苑",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22789946531122,
+          30.349600814401086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16072",
+        "名称": "东兰轩",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21829242717548,
+          30.345958207569005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16068",
+        "名称": "长睦家苑",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22286710211786,
+          30.352681214723873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16065",
+        "名称": "联合格里",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.11658302710123,
+          30.25491087465025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16063",
+        "名称": "大唐苑",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.12099231748073,
+          30.261466584885806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16055",
+        "名称": "丁桥家苑一期（1-36幢）",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22011928730358,
+          30.34465533582309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16049",
+        "名称": "丁兰街道扩面核酸点",
+        "详情地址": "明珠街西北侧",
+        "联系电话": "88117033",
+        "状态": "休息",
+        "类型": "政府机关",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22081678815069,
+          30.348428222646216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16043",
+        "名称": "大唐城",
+        "详情地址": "大唐城",
+        "联系电话": "88117033",
+        "状态": "休息",
+        "类型": "重点公共场所",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.92488312879269,
+          30.05852071736904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16033",
+        "名称": "九堡街道相江社区检测点",
+        "详情地址": "九堡街道相江社区海益路段",
+        "联系电话": "87091075",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27317192994816,
+          30.296139967656075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16022",
+        "名称": "九堡街道海棠公寓小区检测点",
+        "详情地址": "九堡街道海棠公寓小区北商铺",
+        "联系电话": "88836681",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26148213390219,
+          30.30758866777388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16017",
+        "名称": "九堡街道红苹果小区检测点",
+        "详情地址": "九堡街道红苹果小区足球场",
+        "联系电话": "85166411",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27409378777443,
+          30.30001584210383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16016",
+        "名称": "九堡街道金海社区检测点",
+        "详情地址": "九堡街道金海商业城B馆南侧通道",
+        "联系电话": "86902555",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.25777129381929,
+          30.306424253304577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16011",
+        "名称": "九堡街道宣家埠村三组检测点",
+        "详情地址": "九堡街道宣家埠村三组篮球场",
+        "联系电话": "86032783",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23879725981442,
+          30.324900016602086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16010",
+        "名称": "九堡街道三村村委检测点",
+        "详情地址": "九堡街道三村村委东停车场",
+        "联系电话": "87162893",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23665194331066,
+          30.313775692372218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16009",
+        "名称": "九堡街道三村村整治指挥部检测点",
+        "详情地址": "九堡街道三村村整治工作指挥部",
+        "联系电话": "87162893",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2349267877347,
+          30.315406117558137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16005",
+        "名称": "九堡街道九堡社区三区检测点",
+        "详情地址": "九沙大道与仁爱路交叉口东南角",
+        "联系电话": "86701045",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26024819173801,
+          30.311622979925662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16002",
+        "名称": "九堡街道格畈社区检测点",
+        "详情地址": "九堡街道格畈社区北苑农贸市场停车场",
+        "联系电话": "86689461",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.25256963568533,
+          30.32327638130428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16001",
+        "名称": "九堡街道蚕桑社区检测点",
+        "详情地址": "九堡街道蚕桑社区蚕桑西苑北门商铺通道",
+        "联系电话": "89701230",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.25747063033188,
+          30.309189451263023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15995",
+        "名称": "九堡街道江岸邻里检测点",
+        "详情地址": "九堡街道江岸邻里8-9幢北面行车道",
+        "联系电话": "86902132",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26569625085115,
+          30.29534221680839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15994",
+        "名称": "普德人家",
+        "详情地址": "九州路",
+        "联系电话": "0571-86013317",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2369003470496,
+          30.310393827853773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15989",
+        "名称": "远洋心里",
+        "详情地址": "建福街86号",
+        "联系电话": "0571-86056711",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23456957691691,
+          30.30293865573817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15985",
+        "名称": "亲悦里",
+        "详情地址": "九环路3号",
+        "联系电话": "0571-86019124",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.24526483784989,
+          30.300082915359102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15983",
+        "名称": "雍泽府",
+        "详情地址": "新塘路与园区路交汇处",
+        "联系电话": "0571-86019124",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23901658181884,
+          30.295229263201872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15979",
+        "名称": "绿城杨柳郡",
+        "详情地址": "九和路660号",
+        "联系电话": "0571-86493755",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22821043421243,
+          30.29752329825371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15976",
+        "名称": "清江名潮院",
+        "详情地址": "清江名潮院小区大门口",
+        "联系电话": "86786073；85041053",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18690514216946,
+          30.236596933653257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15969",
+        "名称": "望江家园东园",
+        "详情地址": "望江家园东园23幢旁",
+        "联系电话": "86517782",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18046498865363,
+          30.229203337885416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15968",
+        "名称": "甘王路口",
+        "详情地址": "甘王路与秋涛支路交界口",
+        "联系电话": "86511195",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18383816573014,
+          30.23807564487046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15965",
+        "名称": "茅廊巷农贸市场",
+        "详情地址": "佑圣观路275号",
+        "联系电话": "87803461",
+        "状态": "休息",
+        "类型": "企事业单位",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16374911342638,
+          30.24630344972786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15960",
+        "名称": "解放路19号",
+        "详情地址": "解放路19号",
+        "联系电话": "86067015",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17153637791333,
+          30.24628809271122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15954",
+        "名称": "西牌楼社区居委会",
+        "详情地址": "建国南路38号",
+        "联系电话": "87822042",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16452169634555,
+          30.235067834260363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15953",
+        "名称": "皮市巷小区",
+        "详情地址": "皮市巷35号",
+        "联系电话": "87044618",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16383061146037,
+          30.25039430462015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15951",
+        "名称": "地铁7号线D口",
+        "详情地址": "地铁7号线D口附近",
+        "联系电话": "87812433",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.28225089322244,
+          30.364605400856195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15950",
+        "名称": "羊线弄22号",
+        "详情地址": "羊线弄22号（原铁路四小）",
+        "联系电话": "87812433",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.06709417201583,
+          30.321608679257803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15927",
+        "名称": "岳王路社区",
+        "详情地址": "祖庙巷33号（新世纪外国语学校）",
+        "联系电话": "0571-87081637",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15908527832684,
+          30.253252180401034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15922",
+        "名称": "涌金门社区",
+        "详情地址": "西湖大道延安路西北口",
+        "联系电话": "0571-87084018；0571-87082031",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15486493177492,
+          30.24317003193797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14409",
+        "名称": "中欧城核酸采集点",
+        "详情地址": "城南街道环城南路学圣路路口",
+        "联系电话": "无",
+        "状态": "休息",
+        "类型": "基层",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.69343179245284,
+          29.789848766964834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14407",
+        "名称": "荣正广场方舱核酸采集点",
+        "详情地址": "城南街道迎春南路29号荣正财富广场",
+        "联系电话": "无",
+        "状态": "休息",
+        "类型": "基层",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6882188993959,
+          29.781905995050376
         ]
       }
     },
@@ -8056,9 +8056,9 @@
         "名称": "金都新城中心花园",
         "详情地址": "文三西路326号金都新城中心花园",
         "联系电话": "88478629",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8076,9 +8076,9 @@
         "名称": "香樟公寓会馆一楼1号点",
         "详情地址": "文三西路360号香樟公寓46幢西侧",
         "联系电话": "88269329",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8096,9 +8096,9 @@
         "名称": "沁雅花园2号点",
         "详情地址": "文三西路111号东侧",
         "联系电话": "88974528",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8176,9 +8176,9 @@
         "名称": "雅仕苑1号点",
         "详情地址": "文一西路149号西侧",
         "联系电话": "88220532",
-        "状态": "拥挤",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#C24740",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8196,9 +8196,9 @@
         "名称": "文新街道门口2号点",
         "详情地址": "文三西路428号南侧",
         "联系电话": "88974463；88980297",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8216,9 +8216,9 @@
         "名称": "文新街道门口1号点",
         "详情地址": "文三西路428号北侧",
         "联系电话": "88974463；88980297",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8296,9 +8296,9 @@
         "名称": "科技新村停车场2号点",
         "详情地址": "文二西路471号东侧",
         "联系电话": "88476716",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8746,9 +8746,9 @@
         "名称": "定北家园二区",
         "详情地址": "定北家园二区10-11幢中间空地",
         "联系电话": "87091097",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8766,9 +8766,9 @@
         "名称": "珊瑚沙路之江银泰门口采样点",
         "详情地址": "珊瑚沙路之江银泰门口",
         "联系电话": "86652608",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8786,9 +8786,9 @@
         "名称": "江涵路之江银泰门口采样点",
         "详情地址": "江涵路之江银泰门口",
         "联系电话": "86652608",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8806,9 +8806,9 @@
         "名称": "之江家园四区5幢门口中心广场",
         "详情地址": "之江家园四区",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8826,9 +8826,9 @@
         "名称": "之江家园五区19幢前小广场",
         "详情地址": "之江家园五区",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8846,9 +8846,9 @@
         "名称": "之江家园二区西门",
         "详情地址": "之江家园二区",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8866,9 +8866,9 @@
         "名称": "贝利云栖",
         "详情地址": "贝利云栖3号楼西侧",
         "联系电话": "13588114657;18767179573",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8886,9 +8886,9 @@
         "名称": "定山西苑一区",
         "详情地址": "定山西苑8幢南面场地",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -8906,9 +8906,9 @@
         "名称": "定山家园",
         "详情地址": "定山家园羽毛球场15幢前",
         "联系电话": "13588114657;18767179573",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9084,9 +9084,9 @@
         "名称": "贺田尚城花园采样点",
         "详情地址": "六和路新河路口贺田尚城铜马广场",
         "联系电话": "86602345",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9140,9 +9140,9 @@
         "名称": "创智街靠近汤吴家路",
         "详情地址": "创智街靠近汤吴家路口",
         "联系电话": "8997206",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "其他",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9160,9 +9160,9 @@
         "名称": "谷丰大厦南过渡房",
         "详情地址": "谷丰南过渡房生活馆门口",
         "联系电话": "86619185",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9180,9 +9180,9 @@
         "名称": "江南文苑北门",
         "详情地址": "江南文苑北门（滨文路639号）",
         "联系电话": "81393816",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9200,9 +9200,9 @@
         "名称": "滨文过渡房",
         "详情地址": "滨文路与闻涛路交接处",
         "联系电话": "86630995",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9220,9 +9220,9 @@
         "名称": "杨家墩东侧过渡房",
         "详情地址": "杨家墩东侧过渡房生活馆",
         "联系电话": "86615571",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9260,9 +9260,9 @@
         "名称": "冠新佳苑",
         "详情地址": "冠新佳苑南门中心广场",
         "联系电话": "87788353",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9280,9 +9280,9 @@
         "名称": "火炬小区78栋北停车场",
         "详情地址": "火炬小区78栋北停车场",
         "联系电话": "86632196",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "其他",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9372,9 +9372,9 @@
         "名称": "白马湖和院20幢和21幢中间的蜗牛喷泉处",
         "详情地址": "白马湖和院20幢和21幢中间的蜗牛喷泉处",
         "联系电话": "88162286",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9392,9 +9392,9 @@
         "名称": "龙湖江南天街南广场",
         "详情地址": "龙湖滨江天街南广场",
         "联系电话": "88098232",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9412,9 +9412,9 @@
         "名称": "江尚景苑东侧广场",
         "详情地址": "江尚景苑东侧广场",
         "联系电话": "87004735",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9432,9 +9432,9 @@
         "名称": "水沟沿公租房中心广场",
         "详情地址": "水沟沿过渡房门口公园",
         "联系电话": "86608669",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9452,9 +9452,9 @@
         "名称": "柴家坞篮球场",
         "详情地址": "柴家坞篮球场",
         "联系电话": "86603503",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9472,9 +9472,9 @@
         "名称": "老年活动室外的广场",
         "详情地址": "江三社区居委会门口",
         "联系电话": "81959553",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9510,9 +9510,9 @@
         "名称": "水谢春天",
         "详情地址": "水榭春天2幢前",
         "联系电话": "87679353",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9530,9 +9530,9 @@
         "名称": "旭江华庭",
         "详情地址": "旭江华庭2幢前",
         "联系电话": "87679353",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9550,9 +9550,9 @@
         "名称": "滨和采样点1",
         "详情地址": "人才公寓北门",
         "联系电话": "88003215",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9570,9 +9570,9 @@
         "名称": "新州社区采样点1",
         "详情地址": "三秋花苑北面",
         "联系电话": "86602366",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9590,9 +9590,9 @@
         "名称": "西陵社区采样点",
         "详情地址": "西兴街道党群服务中心西门",
         "联系电话": "86689908",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9610,9 +9610,9 @@
         "名称": "西陵社区采样点",
         "详情地址": "戏迷广场采样点",
         "联系电话": "86689908",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9630,9 +9630,9 @@
         "名称": "襄七房社区采样点",
         "详情地址": "滨康二苑西门商铺",
         "联系电话": "88811080",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9670,9 +9670,9 @@
         "名称": "御东方",
         "详情地址": "小区大门广场",
         "联系电话": "88117033",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -9690,9 +9690,9 @@
         "名称": "阅兰府",
         "详情地址": "小区大门广场",
         "联系电话": "88117033",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -10348,9 +10348,9 @@
         "名称": "围中五和停车场",
         "详情地址": "江东三路南",
         "联系电话": "82120613",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -10682,9 +10682,9 @@
         "名称": "夕照新村2号门 （21幢旁）",
         "详情地址": "夕照新村21幢",
         "联系电话": "0571-56281909",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -10702,9 +10702,9 @@
         "名称": "凯旋路和采荷路交叉口月亮曲公园(邮政银行旁)",
         "详情地址": "凯旋路73号",
         "联系电话": "0571-86780779",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -10722,9 +10722,9 @@
         "名称": "芙蓉社区党群服务中心前广场",
         "详情地址": "百合路10号",
         "联系电话": "0571-86793229",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -10742,9 +10742,9 @@
         "名称": "公交车站旁小公园",
         "详情地址": "双菱路58号",
         "联系电话": "0571-56061008",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -11362,9 +11362,9 @@
         "名称": "九堡街道重点人员核酸检测点",
         "详情地址": "九沙大道与仁爱路交叉口东南角",
         "联系电话": "86701045",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "其他",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -12936,1292 +12936,6 @@
         "coordinates": [
           120.18291160375513,
           30.28253217814162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16288",
-        "名称": "新创卫生服务站",
-        "详情地址": "新创村委会东侧",
-        "联系电话": "82961575",
-        "状态": "忙碌",
-        "类型": "基层医疗机构",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.43787931292182,
-          30.326269118639082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16284",
-        "名称": "文伟卫生服务站",
-        "详情地址": "村委会向北250米",
-        "联系电话": "82126918",
-        "状态": "休息",
-        "类型": "基层医疗机构",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.42794581806804,
-          30.309637048392435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16283",
-        "名称": "三联卫生服务站",
-        "详情地址": "三联村卫生服务体系",
-        "联系电话": "82962531",
-        "状态": "忙碌",
-        "类型": "基层医疗机构",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.27191202764189,
-          30.15352231226268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16271",
-        "名称": "建华家苑",
-        "详情地址": "三官堂路",
-        "联系电话": "0571-86018936",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.23279445073938,
-          30.290350614294837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16266",
-        "名称": "明月嘉苑一区",
-        "详情地址": "明月桥路与新塘路交叉口",
-        "联系电话": "0571-85197292",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21398672016177,
-          30.285853152767597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16263",
-        "名称": "新中宇维萨",
-        "详情地址": "明月桥路与新塘路交汇处",
-        "联系电话": "0571-85197292",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21499340264945,
-          30.288517020549445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16251",
-        "名称": "新塘家园",
-        "详情地址": "三新北路5号",
-        "联系电话": "0571-86092035",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1985097863638,
-          30.270908647721765
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16250",
-        "名称": "保利中央公馆",
-        "详情地址": "新塘路277号",
-        "联系电话": "0571-86092035",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19459859759009,
-          30.271879477225923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16248",
-        "名称": "彭埠社区卫生服务中心",
-        "详情地址": "环站东路与元宝塘巷交叉口",
-        "联系电话": "0571-86492249",
-        "状态": "忙碌",
-        "类型": "基层医疗机构",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21192192884496,
-          30.28489978678228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16246",
-        "名称": "白石社区便民采集点",
-        "详情地址": "白石社区党群服务中心",
-        "联系电话": "85890508",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.2155205840105,
-          30.300341569466497
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16243",
-        "名称": "花园社区便民采集点",
-        "详情地址": "花园府西门",
-        "联系电话": "85044884",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19883151625878,
-          30.301651260433243
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16240",
-        "名称": "黄家社区便民采集点",
-        "详情地址": "黄家社区卫生服务中心前",
-        "联系电话": "85141067",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.11842505794625,
-          30.11746540717956
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16238",
-        "名称": "横塘社区便民采集点",
-        "详情地址": "横塘社区党群服务中心",
-        "联系电话": "85147942",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21006982027312,
-          30.32091136252867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16222",
-        "名称": "城星社区采样点",
-        "详情地址": "悦府会所门口",
-        "联系电话": "86686320",
-        "类型": "社区",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.43289878104446,
-          29.560302271798474
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16215",
-        "名称": "三叉社区采样点",
-        "详情地址": "三新会馆一楼",
-        "联系电话": "86989246",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19262452680611,
-          30.258706722544357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16213",
-        "名称": "四季青街道社区卫生服务中心采样点",
-        "详情地址": "四季青街道社区卫生服务中心（西门岗亭）",
-        "联系电话": "86882046",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20238594827796,
-          30.259508320862064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16208",
-        "名称": "观音塘路95号 社区楼下",
-        "详情地址": "观音塘路95号",
-        "联系电话": "0571-86995261",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19209087268844,
-          30.24001043497548
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16202",
-        "名称": "采荷路45号如家酒店旁",
-        "详情地址": "采荷路45号",
-        "联系电话": "0571-89776318",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18030132893263,
-          30.248556258688463
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16200",
-        "名称": "人民社区门口广场",
-        "详情地址": "庆菱路23号",
-        "联系电话": "0571-56823869",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18152339442658,
-          30.252642651905575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16199",
-        "名称": "双菱社区党群服务中心门口（34幢东侧)",
-        "详情地址": "双菱小区34幢",
-        "联系电话": "0571-86037564",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19711539070634,
-          30.24951869422287
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16188",
-        "名称": "凯华社区",
-        "详情地址": "凯缤巷2号",
-        "联系电话": "0571-85127271",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18436118470241,
-          30.271124342110685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16187",
-        "名称": "凯西社区",
-        "详情地址": "凯旋路291号凯西社区内",
-        "联系电话": "0571-86043044",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17951610790509,
-          30.262516474374948
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16185",
-        "名称": "金兰池社区",
-        "详情地址": "北景西苑16幢小公园",
-        "联系电话": "0571-86940154",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18112798962258,
-          30.257431810511036
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16178",
-        "名称": "景新社区",
-        "详情地址": "景芳三区西门（邻里中心广场上）",
-        "联系电话": "0571-86965635",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.19428464515903,
-          30.264093914112756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16172",
-        "名称": "眼镜城",
-        "详情地址": "眼镜城",
-        "联系电话": "86417737",
-        "状态": "休息",
-        "类型": "其他",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17998951838275,
-          30.272781668506934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16171",
-        "名称": "闻皇庙社区",
-        "详情地址": "雷锋广场",
-        "联系电话": "86408273",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18029298326084,
-          30.283145540714383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16149",
-        "名称": "候潮府",
-        "详情地址": "候潮府",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1733244430171,
-          30.221546352534798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16146",
-        "名称": "望江府",
-        "详情地址": "望江府",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17797282029925,
-          30.225828836376188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16142",
-        "名称": "平如里",
-        "详情地址": "江城路332号一340号",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16182704704406,
-          30.225598830193288
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16141",
-        "名称": "索菲亚大酒店",
-        "详情地址": "上仓桥路11-1号",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16012368614503,
-          30.226648993026732
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16139",
-        "名称": "大马弄",
-        "详情地址": "太庙社区党群服务中心",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.15926506759669,
-          30.2386160338582
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16138",
-        "名称": "春江花月",
-        "详情地址": "春江花月流云苑4幢圆顶小广场",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.17031946417556,
-          30.213677171603667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16131",
-        "名称": "云雀苑",
-        "详情地址": "云雀苑13幢凉亭",
-        "联系电话": "28899099",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16530970456832,
-          30.23153015952049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16117",
-        "名称": "玉皇山社区5",
-        "详情地址": "电厂二宿舍",
-        "联系电话": "0571-86087492",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.13963764314445,
-          30.202811289403627
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16110",
-        "名称": "馒头山社区3",
-        "详情地址": "凤凰山脚路90号附近",
-        "联系电话": "0571-86583035",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1570559809964,
-          30.214811302508384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16108",
-        "名称": "馒头山社区1",
-        "详情地址": "宋城路5号少年军校",
-        "联系电话": "0571-86583035",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.1570559809964,
-          30.214811302508384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16095",
-        "名称": "白塔岭社区1",
-        "详情地址": "白塔人家云弄商业街",
-        "联系电话": "0571-86084329/0571-86586837",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.13975436629305,
-          30.20047642814777
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16089",
-        "名称": "海月桥社区3",
-        "详情地址": "清怡花苑10幢边公园",
-        "联系电话": "0571-86087653",
-        "状态": "忙碌",
-        "类型": "其他",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.15091422286271,
-          30.201932640729122
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16074",
-        "名称": "丁桥家苑二、三期（37幢 开始）",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.22011928730358,
-          30.34465533582309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16071",
-        "名称": "颐景园",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.75797425466043,
-          30.20845840033713
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16062",
-        "名称": "广宇上东臻品",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21586456698097,
-          30.352672582870927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16060",
-        "名称": "昆仑天籁",
-        "详情地址": "小区大门广场",
-        "联系电话": "88117033",
-        "状态": "空闲",
-        "类型": "社区",
-        "marker-color": "#50C240",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.22542098518831,
-          30.350082745825425
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16053",
-        "名称": "丁桥农贸市场",
-        "详情地址": "丁桥农贸市场",
-        "联系电话": "88117033",
-        "状态": "休息",
-        "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.21684167432332,
-          30.3564439684552
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16046",
-        "名称": "西子产业园",
-        "详情地址": "西子产业园",
-        "联系电话": "88117033",
-        "状态": "休息",
-        "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.83368008991579,
-          30.253548241836818
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16044",
-        "名称": "同协金座",
-        "详情地址": "同协金座",
-        "联系电话": "88117033",
-        "状态": "休息",
-        "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.20173812703256,
-          30.336352381090258
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16036",
-        "名称": "浙江华贸鞋业服饰城检测点",
-        "详情地址": "浙江华贸鞋业服饰城南广场",
-        "联系电话": "89800725",
-        "状态": "休息",
-        "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26545135671167,
-          30.315181559451595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16030",
-        "名称": "九堡街道圆梦园小区检测点",
-        "详情地址": "九堡街道圆梦园小区中心花园",
-        "联系电话": "86621547",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26143111851682,
-          30.290435288016123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16025",
-        "名称": "九堡街道丽江社区检测点",
-        "详情地址": "九堡街道丽江社区杭乔路36号门口广场",
-        "联系电话": "86775479",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26752166184313,
-          30.291824258821272
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16019",
-        "名称": "九堡街道泊林印象检测点",
-        "详情地址": "九堡街道泊林印象小区南门小广场",
-        "联系电话": "85166411",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.27541105642297,
-          30.303793628185996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "16018",
-        "名称": "九堡街道九月庭院检测点",
-        "详情地址": "九堡街道九月庭院1幢与2幢之间登高场地",
-        "联系电话": "85166411",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.27565825013772,
-          30.301067187330766
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15996",
-        "名称": "九堡街道杨公佳苑检测点",
-        "详情地址": "九堡街道杨公佳苑中心公园",
-        "联系电话": "86902132",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.26335661803918,
-          30.296405952224095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15992",
-        "名称": "普福家园",
-        "详情地址": "普福社区",
-        "联系电话": "0571-86013317",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.23647693817911,
-          30.30527508669773
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15986",
-        "名称": "武林郡",
-        "详情地址": "九环路8号",
-        "联系电话": "0571-86493003",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.24574945333065,
-          30.300948355915335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15974",
-        "名称": "近江西园社区近江小公园",
-        "详情地址": "近江西路与富春路交叉口旁公园",
-        "联系电话": "86557208；86557512",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.18792114181959,
-          30.229291219081514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15961",
-        "名称": "杭州联合银行总部",
-        "详情地址": "建国中路99号",
-        "联系电话": "87089890",
-        "状态": "休息",
-        "类型": "企事业单位",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16918953537348,
-          30.250606244945182
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15958",
-        "名称": "金竹轩小区旁",
-        "详情地址": "金竹轩小区旁环保公园",
-        "联系电话": "87807113",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16562729261875,
-          30.243624976129812
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15942",
-        "名称": "斗富一桥",
-        "详情地址": "斗富一桥五柳芳庭旁",
-        "联系电话": "87651078",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.16439102120788,
-          30.237564004721662
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15935",
-        "名称": "清河坊社区惠民路采样点",
-        "详情地址": "惠民路3号老区政府",
-        "联系电话": "0571-87808256",
-        "状态": "休息",
-        "类型": "社区",
-        "marker-color": "#BEBEBE",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.15681735206115,
-          30.237279664807115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "15928",
-        "名称": "清波门社区四宜路采样点",
-        "详情地址": "四宜路亚运小公园",
-        "联系电话": "0571-87021508",
-        "状态": "忙碌",
-        "类型": "社区",
-        "marker-color": "#F3AE1A",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.149439622171,
-          30.23342704371952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14421",
-        "名称": "萧山区蜀山衔道社区卫生服务中心",
-        "详情地址": "蜀山衔道社区卫生服务中心院内大棚里",
-        "联系电话": "83693700",
-        "类型": null,
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.24245252222806,
-          30.12349572712289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14405",
-        "名称": "城隍庙遗址公园核酸采样点",
-        "详情地址": "桐君街道小岭路路口",
-        "联系电话": "无",
-        "类型": "基层",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.66185788539678,
-          29.802148907214082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14399",
-        "名称": "横村中心卫生院核酸采样点",
-        "详情地址": "横村中心卫生院门口门面房",
-        "联系电话": "0571-58586109",
-        "类型": "基层",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.59659771475152,
-          29.839363945051574
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14397",
-        "名称": "横村镇文体中心广场核酸采样点",
-        "详情地址": "横村镇文体中心广场",
-        "联系电话": "0571-58586109",
-        "类型": "基层",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.6162883082022,
-          29.79748664694803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14391",
-        "名称": "合村村核酸采样点",
-        "详情地址": "合村乡卫生院右侧",
-        "联系电话": "0571-64391120",
-        "类型": "基层",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.30272888748516,
-          29.931537396027775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "ID": "14383",
-        "名称": "桐庐县新合乡卫生院",
-        "详情地址": "新合卫生院门口",
-        "联系电话": "0571-64257010",
-        "类型": "基层",
-        "marker-symbol": "cafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.89780935973552,
-          29.688209863387144
         ]
       }
     },
@@ -15866,9 +14580,9 @@
         "名称": "南都花园1号点",
         "详情地址": "文一西路122号西侧",
         "联系电话": "88854720",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -15956,6 +14670,1292 @@
         "coordinates": [
           120.0954070569602,
           30.279902692916995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16288",
+        "名称": "新创卫生服务站",
+        "详情地址": "新创村委会东侧",
+        "联系电话": "82961575",
+        "状态": "忙碌",
+        "类型": "基层医疗机构",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.43787931292182,
+          30.326269118639082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16284",
+        "名称": "文伟卫生服务站",
+        "详情地址": "村委会向北250米",
+        "联系电话": "82126918",
+        "状态": "忙碌",
+        "类型": "基层医疗机构",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.42794581806804,
+          30.309637048392435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16283",
+        "名称": "三联卫生服务站",
+        "详情地址": "三联村卫生服务体系",
+        "联系电话": "82962531",
+        "状态": "忙碌",
+        "类型": "基层医疗机构",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27191202764189,
+          30.15352231226268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16271",
+        "名称": "建华家苑",
+        "详情地址": "三官堂路",
+        "联系电话": "0571-86018936",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23279445073938,
+          30.290350614294837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16266",
+        "名称": "明月嘉苑一区",
+        "详情地址": "明月桥路与新塘路交叉口",
+        "联系电话": "0571-85197292",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21398672016177,
+          30.285853152767597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16263",
+        "名称": "新中宇维萨",
+        "详情地址": "明月桥路与新塘路交汇处",
+        "联系电话": "0571-85197292",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21499340264945,
+          30.288517020549445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16251",
+        "名称": "新塘家园",
+        "详情地址": "三新北路5号",
+        "联系电话": "0571-86092035",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1985097863638,
+          30.270908647721765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16250",
+        "名称": "保利中央公馆",
+        "详情地址": "新塘路277号",
+        "联系电话": "0571-86092035",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19459859759009,
+          30.271879477225923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16248",
+        "名称": "彭埠社区卫生服务中心",
+        "详情地址": "环站东路与元宝塘巷交叉口",
+        "联系电话": "0571-86492249",
+        "状态": "忙碌",
+        "类型": "基层医疗机构",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21192192884496,
+          30.28489978678228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16246",
+        "名称": "白石社区便民采集点",
+        "详情地址": "白石社区党群服务中心",
+        "联系电话": "85890508",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.2155205840105,
+          30.300341569466497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16243",
+        "名称": "花园社区便民采集点",
+        "详情地址": "花园府西门",
+        "联系电话": "85044884",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19883151625878,
+          30.301651260433243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16240",
+        "名称": "黄家社区便民采集点",
+        "详情地址": "黄家社区卫生服务中心前",
+        "联系电话": "85141067",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.11842505794625,
+          30.11746540717956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16238",
+        "名称": "横塘社区便民采集点",
+        "详情地址": "横塘社区党群服务中心",
+        "联系电话": "85147942",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21006982027312,
+          30.32091136252867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16222",
+        "名称": "城星社区采样点",
+        "详情地址": "悦府会所门口",
+        "联系电话": "86686320",
+        "类型": "社区",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.43289878104446,
+          29.560302271798474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16215",
+        "名称": "三叉社区采样点",
+        "详情地址": "三新会馆一楼",
+        "联系电话": "86989246",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19262452680611,
+          30.258706722544357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16213",
+        "名称": "四季青街道社区卫生服务中心采样点",
+        "详情地址": "四季青街道社区卫生服务中心（西门岗亭）",
+        "联系电话": "86882046",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20238594827796,
+          30.259508320862064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16208",
+        "名称": "观音塘路95号 社区楼下",
+        "详情地址": "观音塘路95号",
+        "联系电话": "0571-86995261",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19209087268844,
+          30.24001043497548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16202",
+        "名称": "采荷路45号如家酒店旁",
+        "详情地址": "采荷路45号",
+        "联系电话": "0571-89776318",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18030132893263,
+          30.248556258688463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16200",
+        "名称": "人民社区门口广场",
+        "详情地址": "庆菱路23号",
+        "联系电话": "0571-56823869",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18152339442658,
+          30.252642651905575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16199",
+        "名称": "双菱社区党群服务中心门口（34幢东侧)",
+        "详情地址": "双菱小区34幢",
+        "联系电话": "0571-86037564",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19711539070634,
+          30.24951869422287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16188",
+        "名称": "凯华社区",
+        "详情地址": "凯缤巷2号",
+        "联系电话": "0571-85127271",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18436118470241,
+          30.271124342110685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16187",
+        "名称": "凯西社区",
+        "详情地址": "凯旋路291号凯西社区内",
+        "联系电话": "0571-86043044",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17951610790509,
+          30.262516474374948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16185",
+        "名称": "金兰池社区",
+        "详情地址": "北景西苑16幢小公园",
+        "联系电话": "0571-86940154",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18112798962258,
+          30.257431810511036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16178",
+        "名称": "景新社区",
+        "详情地址": "景芳三区西门（邻里中心广场上）",
+        "联系电话": "0571-86965635",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.19428464515903,
+          30.264093914112756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16172",
+        "名称": "眼镜城",
+        "详情地址": "眼镜城",
+        "联系电话": "86417737",
+        "状态": "休息",
+        "类型": "其他",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17998951838275,
+          30.272781668506934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16171",
+        "名称": "闻皇庙社区",
+        "详情地址": "雷锋广场",
+        "联系电话": "86408273",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18029298326084,
+          30.283145540714383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16149",
+        "名称": "候潮府",
+        "详情地址": "候潮府",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1733244430171,
+          30.221546352534798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16146",
+        "名称": "望江府",
+        "详情地址": "望江府",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17797282029925,
+          30.225828836376188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16142",
+        "名称": "平如里",
+        "详情地址": "江城路332号一340号",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16182704704406,
+          30.225598830193288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16141",
+        "名称": "索菲亚大酒店",
+        "详情地址": "上仓桥路11-1号",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16012368614503,
+          30.226648993026732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16139",
+        "名称": "大马弄",
+        "详情地址": "太庙社区党群服务中心",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15926506759669,
+          30.2386160338582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16138",
+        "名称": "春江花月",
+        "详情地址": "春江花月流云苑4幢圆顶小广场",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.17031946417556,
+          30.213677171603667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16131",
+        "名称": "云雀苑",
+        "详情地址": "云雀苑13幢凉亭",
+        "联系电话": "28899099",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16530970456832,
+          30.23153015952049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16117",
+        "名称": "玉皇山社区5",
+        "详情地址": "电厂二宿舍",
+        "联系电话": "0571-86087492",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13963764314445,
+          30.202811289403627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16110",
+        "名称": "馒头山社区3",
+        "详情地址": "凤凰山脚路90号附近",
+        "联系电话": "0571-86583035",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1570559809964,
+          30.214811302508384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16108",
+        "名称": "馒头山社区1",
+        "详情地址": "宋城路5号少年军校",
+        "联系电话": "0571-86583035",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1570559809964,
+          30.214811302508384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16095",
+        "名称": "白塔岭社区1",
+        "详情地址": "白塔人家云弄商业街",
+        "联系电话": "0571-86084329/0571-86586837",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.13975436629305,
+          30.20047642814777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16089",
+        "名称": "海月桥社区3",
+        "详情地址": "清怡花苑10幢边公园",
+        "联系电话": "0571-86087653",
+        "状态": "忙碌",
+        "类型": "其他",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15091422286271,
+          30.201932640729122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16074",
+        "名称": "丁桥家苑二、三期（37幢 开始）",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22011928730358,
+          30.34465533582309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16071",
+        "名称": "颐景园",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.75797425466043,
+          30.20845840033713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16062",
+        "名称": "广宇上东臻品",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21586456698097,
+          30.352672582870927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16060",
+        "名称": "昆仑天籁",
+        "详情地址": "小区大门广场",
+        "联系电话": "88117033",
+        "状态": "空闲",
+        "类型": "社区",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.22542098518831,
+          30.350082745825425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16053",
+        "名称": "丁桥农贸市场",
+        "详情地址": "丁桥农贸市场",
+        "联系电话": "88117033",
+        "状态": "休息",
+        "类型": "重点公共场所",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.21684167432332,
+          30.3564439684552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16046",
+        "名称": "西子产业园",
+        "详情地址": "西子产业园",
+        "联系电话": "88117033",
+        "状态": "休息",
+        "类型": "重点公共场所",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.83368008991579,
+          30.253548241836818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16044",
+        "名称": "同协金座",
+        "详情地址": "同协金座",
+        "联系电话": "88117033",
+        "状态": "休息",
+        "类型": "重点公共场所",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20173812703256,
+          30.336352381090258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16036",
+        "名称": "浙江华贸鞋业服饰城检测点",
+        "详情地址": "浙江华贸鞋业服饰城南广场",
+        "联系电话": "89800725",
+        "状态": "休息",
+        "类型": "重点公共场所",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26545135671167,
+          30.315181559451595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16030",
+        "名称": "九堡街道圆梦园小区检测点",
+        "详情地址": "九堡街道圆梦园小区中心花园",
+        "联系电话": "86621547",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26143111851682,
+          30.290435288016123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16025",
+        "名称": "九堡街道丽江社区检测点",
+        "详情地址": "九堡街道丽江社区杭乔路36号门口广场",
+        "联系电话": "86775479",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26752166184313,
+          30.291824258821272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16019",
+        "名称": "九堡街道泊林印象检测点",
+        "详情地址": "九堡街道泊林印象小区南门小广场",
+        "联系电话": "85166411",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27541105642297,
+          30.303793628185996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16018",
+        "名称": "九堡街道九月庭院检测点",
+        "详情地址": "九堡街道九月庭院1幢与2幢之间登高场地",
+        "联系电话": "85166411",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.27565825013772,
+          30.301067187330766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15996",
+        "名称": "九堡街道杨公佳苑检测点",
+        "详情地址": "九堡街道杨公佳苑中心公园",
+        "联系电话": "86902132",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.26335661803918,
+          30.296405952224095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15992",
+        "名称": "普福家园",
+        "详情地址": "普福社区",
+        "联系电话": "0571-86013317",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.23647693817911,
+          30.30527508669773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15986",
+        "名称": "武林郡",
+        "详情地址": "九环路8号",
+        "联系电话": "0571-86493003",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.24574945333065,
+          30.300948355915335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15974",
+        "名称": "近江西园社区近江小公园",
+        "详情地址": "近江西路与富春路交叉口旁公园",
+        "联系电话": "86557208；86557512",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.18792114181959,
+          30.229291219081514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15961",
+        "名称": "杭州联合银行总部",
+        "详情地址": "建国中路99号",
+        "联系电话": "87089890",
+        "状态": "休息",
+        "类型": "企事业单位",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16918953537348,
+          30.250606244945182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15958",
+        "名称": "金竹轩小区旁",
+        "详情地址": "金竹轩小区旁环保公园",
+        "联系电话": "87807113",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16562729261875,
+          30.243624976129812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15942",
+        "名称": "斗富一桥",
+        "详情地址": "斗富一桥五柳芳庭旁",
+        "联系电话": "87651078",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.16439102120788,
+          30.237564004721662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15935",
+        "名称": "清河坊社区惠民路采样点",
+        "详情地址": "惠民路3号老区政府",
+        "联系电话": "0571-87808256",
+        "状态": "休息",
+        "类型": "社区",
+        "marker-color": "#BEBEBE",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15681735206115,
+          30.237279664807115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15928",
+        "名称": "清波门社区四宜路采样点",
+        "详情地址": "四宜路亚运小公园",
+        "联系电话": "0571-87021508",
+        "状态": "忙碌",
+        "类型": "社区",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.149439622171,
+          30.23342704371952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14421",
+        "名称": "萧山区蜀山衔道社区卫生服务中心",
+        "详情地址": "蜀山衔道社区卫生服务中心院内大棚里",
+        "联系电话": "83693700",
+        "类型": null,
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.24245252222806,
+          30.12349572712289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14405",
+        "名称": "城隍庙遗址公园核酸采样点",
+        "详情地址": "桐君街道小岭路路口",
+        "联系电话": "无",
+        "类型": "基层",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.66185788539678,
+          29.802148907214082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14399",
+        "名称": "横村中心卫生院核酸采样点",
+        "详情地址": "横村中心卫生院门口门面房",
+        "联系电话": "0571-58586109",
+        "类型": "基层",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.59659771475152,
+          29.839363945051574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14397",
+        "名称": "横村镇文体中心广场核酸采样点",
+        "详情地址": "横村镇文体中心广场",
+        "联系电话": "0571-58586109",
+        "类型": "基层",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.6162883082022,
+          29.79748664694803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14391",
+        "名称": "合村村核酸采样点",
+        "详情地址": "合村乡卫生院右侧",
+        "联系电话": "0571-64391120",
+        "类型": "基层",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.30272888748516,
+          29.931537396027775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "14383",
+        "名称": "桐庐县新合乡卫生院",
+        "详情地址": "新合卫生院门口",
+        "联系电话": "0571-64257010",
+        "类型": "基层",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.89780935973552,
+          29.688209863387144
         ]
       }
     },
@@ -16668,9 +16668,9 @@
         "名称": "转塘街社区",
         "详情地址": "西湖二院（庙山）西侧",
         "联系电话": "87091095",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -16726,9 +16726,9 @@
         "名称": "上城埭村核酸采样点",
         "详情地址": "上城埭村许家埭停车场",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -16746,9 +16746,9 @@
         "名称": "桐坞村核酸采样点",
         "详情地址": "遵生大茗堂操场",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -16766,9 +16766,9 @@
         "名称": "转塘家园北区24幢与31幢中间",
         "详情地址": "转塘家园北区24幢与31幢中间",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -16786,9 +16786,9 @@
         "名称": "公元沐桥采样点",
         "详情地址": "公元沐桥北区",
         "联系电话": "86652608",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -16806,9 +16806,9 @@
         "名称": "珊瑚沙家园三期篮球场采样点",
         "详情地址": "珊瑚沙家园三期篮球场",
         "联系电话": "86652608",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -16846,9 +16846,9 @@
         "名称": "定山西苑二区",
         "详情地址": "定山西苑二区5幢中心花坛",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -16866,9 +16866,9 @@
         "名称": "定山家园",
         "详情地址": "定山家园羽毛球场25幢前",
         "联系电话": "13588114657;18767179573",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": null,
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17184,9 +17184,9 @@
         "名称": "风尚蓝湾采样点",
         "详情地址": "风尚蓝湾西侧道路",
         "联系电话": "81393785",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17204,9 +17204,9 @@
         "名称": "逸天广场采样点",
         "详情地址": "逸天广场下沉式广场",
         "联系电话": "81393785",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17224,9 +17224,9 @@
         "名称": "积家小区采样点",
         "详情地址": "积家小区东面停车场空地",
         "联系电话": "81393785",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17244,9 +17244,9 @@
         "名称": "东冠社区农贸市场西停车场",
         "详情地址": "东冠社区农贸市场西停车场",
         "联系电话": "28929766",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17264,9 +17264,9 @@
         "名称": "杨家墩悦府",
         "详情地址": "杨家墩悦府",
         "联系电话": "86615571",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17302,9 +17302,9 @@
         "名称": "宝龙城广场",
         "详情地址": "宝龙城南广场",
         "联系电话": "89997006",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17322,9 +17322,9 @@
         "名称": "悦江广场",
         "详情地址": "悦江商业中心广场",
         "联系电话": "89997006",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17342,9 +17342,9 @@
         "名称": "世茂缤谷商业中心广场",
         "详情地址": "西环路江南大道口西南侧",
         "联系电话": "87656771",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17362,9 +17362,9 @@
         "名称": "安五房",
         "详情地址": "东冠路与火炬大道交界处",
         "联系电话": "87788353",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17438,9 +17438,9 @@
         "名称": "闻涛中学西面停车场",
         "详情地址": "闻涛中学西面停车场",
         "联系电话": "86630966",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "重点公共场所",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17458,9 +17458,9 @@
         "名称": "冠山小区东门小广场",
         "详情地址": "冠山小区东门小广场",
         "联系电话": "86601619",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17478,9 +17478,9 @@
         "名称": "中兴美食广场内部停车场",
         "详情地址": "中兴花园东门北侧",
         "联系电话": "87165717",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17498,9 +17498,9 @@
         "名称": "张家村公租房",
         "详情地址": "张家村公租房中心广场",
         "联系电话": "86603503",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17518,9 +17518,9 @@
         "名称": "长虹公园",
         "详情地址": "长虹苑小区西侧",
         "联系电话": "86672906",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17538,9 +17538,9 @@
         "名称": "江虹小区西门店面房",
         "详情地址": "江虹小区西门店面房",
         "联系电话": "86624852",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17558,9 +17558,9 @@
         "名称": "滨兴小区朝东商铺前",
         "详情地址": "齐飞路南路段东侧商铺",
         "联系电话": "86627258",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17578,9 +17578,9 @@
         "名称": "东方花城",
         "详情地址": "东方花城小区南广场",
         "联系电话": "85076533",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17598,9 +17598,9 @@
         "名称": "缤纷未来社区采样点",
         "详情地址": "缤纷北苑东门",
         "联系电话": "86686286；  86683026； 87700111",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17618,9 +17618,9 @@
         "名称": "迎春南苑采样点",
         "详情地址": "迎春南苑5幢商铺",
         "联系电话": null,
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17638,9 +17638,9 @@
         "名称": "鑫都汇采样点",
         "详情地址": "鑫都汇生活广场南楼东侧",
         "联系电话": "86628116",
-        "状态": "休息",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#BEBEBE",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17698,9 +17698,9 @@
         "名称": "龙湖名景台北苑",
         "详情地址": "小区大门广场",
         "联系电话": "88117033",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -17738,9 +17738,9 @@
         "名称": "云亭公寓",
         "详情地址": "小区大门广场",
         "联系电话": "88117033",
-        "状态": "空闲",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#50C240",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -18356,9 +18356,9 @@
         "名称": "云上学府北门商铺",
         "详情地址": "云上学府北门商铺",
         "联系电话": "82174695",
-        "状态": "拥挤",
+        "状态": "忙碌",
         "类型": "社区",
-        "marker-color": "#C24740",
+        "marker-color": "#F3AE1A",
         "marker-symbol": "cafe"
       },
       "geometry": {
