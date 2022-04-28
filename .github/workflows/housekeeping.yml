@@ -6,9 +6,9 @@ name: House Keeping
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [master, sampling-point]
   pull_request:
-    branches: [ master ]
+    branches: [master, sampling-point]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -19,24 +19,24 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '14'
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14'
 
-    - name: Install
-      run: npm install -C tools
+      - name: Install
+        run: npm install -C tools
 
-    - name: House Keeping
-      run: npm run housekeeping -C tools
+      - name: House Keeping
+        run: npm run housekeeping -C tools
 
-    - name: Commit
-      uses: EndBug/add-and-commit@v4
-      with:
-        message: "chore: house keeping [bot]"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: 'chore: house keeping [bot]'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Test
-      run: npm test -C tools
+      - name: Test
+        run: npm test -C tools

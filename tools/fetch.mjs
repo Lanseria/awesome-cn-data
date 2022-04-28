@@ -43,7 +43,10 @@ let res = CryptoJS.DES.decrypt({
 }).toString(CryptoJS.enc.Utf8)
 const r = JSON.parse(res)
 // console.log(r);
-// 0 拥挤 1 忙 2 空闲 3休息
+// 0 拥挤 1 忙碌 2 空闲 3 休息
+const textMap = {
+  0: '拥挤', 1: '忙碌', 2: '空闲', 3: '休息'
+}
 const colorMap = {
   0: '#C24740',
   1: '#F3AE1A',
@@ -51,6 +54,8 @@ const colorMap = {
   3: '#BEBEBE'
 }
 const features = r.result.t.data.map(item => {
+  const loc = coordtransform.bd09togcj02(+item.gisLng, +item.gisLat)
+
   return {
     type: 'Feature',
     properties: {
@@ -58,7 +63,7 @@ const features = r.result.t.data.map(item => {
       '名称': item.orgName,
       '详情地址': item.address,
       '联系电话': item.phone,
-      '状态': item.serviceStatus,
+      '状态': textMap[item.serviceStatus],
       '类型': item.levelName,
       "marker-color": colorMap[item.serviceStatus],
       "marker-symbol": "cafe"
@@ -66,7 +71,7 @@ const features = r.result.t.data.map(item => {
     },
     geometry: {
       type: 'Point',
-      coordinates: coordtransform.bd09togcj02(+item.gisLng, +item.gisLat)
+      coordinates: coordtransform.gcj02towgs84(loc[0], loc[1])
     }
   }
 })
