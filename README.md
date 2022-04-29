@@ -1,5 +1,7 @@
 # Awesome CN Data (SamplingPoint)
-![CI](https://github.com/ElaWorkshop/awesome-cn-cafe/workflows/CI/badge.svg)
+
+[![House Keeping](https://github.com/Lanseria/awesome-cn-data/actions/workflows/housekeeping.yml/badge.svg)](https://github.com/Lanseria/awesome-cn-data/actions/workflows/housekeeping.yml)
+
 
 这是国内数据分享的社区，提供了一些有用的数据，目前包括：
 

@@ -1,7 +1,6 @@
-import ky from 'ky-universal';
 import fs from 'fs'
 import CryptoJS from 'crypto-js';
-import coordtransform from 'coordtransform';
+import gcoord from 'gcoord';
 // ky.post('https://nltg.zj12580.cn/client-api/search/getNucleicAcidOrgList', {}).json().then(res => {
 //   console.log(res);
 // }
@@ -54,7 +53,11 @@ const colorMap = {
   3: '#BEBEBE'
 }
 const features = r.result.t.data.filter(m => !!m.serviceStatus).map(item => {
-  const loc = coordtransform.bd09togcj02(+item.gisLng, +item.gisLat)
+  const loc = gcoord.transform(
+    [+item.gisLng, +item.gisLat],    // 经纬度坐标
+    gcoord.GCJ02,               // 当前坐标系
+    gcoord.WGS84                 // 目标坐标系
+  );
   if (item.orgName === '保亭社区') {
     console.log(item);
   }
@@ -73,7 +76,7 @@ const features = r.result.t.data.filter(m => !!m.serviceStatus).map(item => {
     },
     geometry: {
       type: 'Point',
-      coordinates: coordtransform.gcj02towgs84(loc[0], loc[1])
+      coordinates: loc
     }
   }
 })
