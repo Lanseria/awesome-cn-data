@@ -53,9 +53,11 @@ const colorMap = {
   2: '#50C240',
   3: '#BEBEBE'
 }
-const features = r.result.t.data.map(item => {
+const features = r.result.t.data.filter(m => !!m.serviceStatus).map(item => {
   const loc = coordtransform.bd09togcj02(+item.gisLng, +item.gisLat)
-
+  if (item.orgName === '保亭社区') {
+    console.log(item);
+  }
   return {
     type: 'Feature',
     properties: {
@@ -80,3 +82,4 @@ const geoJson = {
   features
 }
 fs.writeFileSync('../hangzhou.geojson', JSON.stringify(geoJson, null, 2))
+fs.writeFileSync('./data.json', JSON.stringify(r.result.t.data, null, 2))

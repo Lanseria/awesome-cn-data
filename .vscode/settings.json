@@ -5,5 +5,5 @@
     "source.organizeImports": false
   },
   "eslint.enable": false,
-  "prettier.enable": true
+  "prettier.enable": false
 }
