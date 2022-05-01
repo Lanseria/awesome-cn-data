@@ -25,7 +25,7 @@ Web app 由 [@lanseria](https://github.com/lanseria) 维护：https://github.com
 或直接点击下面的链接在 GitHub 上查看。
 
 * [杭州 (844)](hangzhou.geojson)
-* [舟山 (5)](zhoushan.geojson)
+* [舟山 (11)](zhoushan.geojson)
 
 ## 授权
 [CC-BY](http://creativecommons.org/licenses/by/4.0/)
