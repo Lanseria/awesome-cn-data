@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "-",
+        "名称": "舟山市妇女儿童医院",
+        "详情地址": "定海区昌国街道人民北路238号",
+        "联系电话": "0580-2065211",
+        "状态": "空闲",
+        "类型": "收费",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.09935821539305,
+          30.030999315300264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "-",
+        "名称": "舟山市中医院",
+        "详情地址": "定海区新桥路355号院区内采样大棚",
+        "联系电话": "0580-2615092",
+        "状态": "空闲",
+        "类型": "收费",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.12038972045934,
+          30.018410633837455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "-",
+        "名称": "定海区中心医院",
+        "详情地址": "定海区人民南路30号",
+        "联系电话": "0580-2667581",
+        "状态": "空闲",
+        "类型": "收费",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.10322434848553,
+          30.01540498071884
+        ]
+      }
+    }
+  ]
+}

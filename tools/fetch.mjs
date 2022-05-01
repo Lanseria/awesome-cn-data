@@ -58,9 +58,6 @@ const features = r.result.t.data.filter(m => !!m.serviceStatus).map(item => {
     gcoord.GCJ02,               // 当前坐标系
     gcoord.WGS84                 // 目标坐标系
   );
-  if (item.orgName === '保亭社区') {
-    console.log(item);
-  }
   return {
     type: 'Feature',
     properties: {
