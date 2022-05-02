@@ -67,6 +67,7 @@ const features = r.result.t.data.filter(m => !!m.serviceStatus).map(item => {
       '联系电话': item.phone,
       '状态': textMap[item.serviceStatus],
       '类型': item.levelName,
+      '工作时间': item.workTime,
       "marker-color": colorMap[item.serviceStatus],
       "marker-symbol": "cafe"
 
